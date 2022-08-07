@@ -1,0 +1,50 @@
+
+.parent{
+    display:flex;
+    border:2px solid black;
+    margin :50px 30px 0px 30px ;
+    
+}
+.box{
+    padding: 20px 0px;
+    border: 2px solid black;
+    margin-top: 150px;
+    margin-bottom:100px;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+.box-part{
+    border:2px solid black;
+    margin:30px 30px 50px 30px;
+    padding:20px 80px;
+
+}
+form{
+margin:80px 50px;
+font-size:20px;
+}
+
+.container{
+    margin-top:20px;
+
+}
+
+.parent1{
+    display:flex;
+}
+.oval{
+    content:Image
+}
+
+.parent>div{
+    margin:10px;
+}
+.oval{
+    border: 2px solid black;
+    border-radius:50%;
+    height: 150px;
+    width:120px;
+    align-content: center;
+
+}
